@@ -1,0 +1,7 @@
+.field {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 33%;
+    margin-right: 33%;
+}

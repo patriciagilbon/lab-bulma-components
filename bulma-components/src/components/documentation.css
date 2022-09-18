@@ -1,0 +1,6 @@
+.DocMessage {
+    padding-left: 33%;
+    padding-right: 33%;
+    display: flex;
+    justify-content: center;   
+}
